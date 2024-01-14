@@ -158,3 +158,4 @@ function resetGame() {
   ];
   gameStart();
 }
+// some minor adjustments needed to correct score counter and reset button
